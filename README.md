@@ -16,9 +16,9 @@ Learn everything you need to about the subject of this `Tutorialspoint React.js`
 ## Topics
 ```
 ReactJS Tutorial
-[ ] Home
-[ ] Overview
-[ ] Environment Setup
+[x] Home
+[x] Overview
+[x] Environment Setup
 [ ] JSX
 [ ] Components
 [ ] State
