@@ -19,7 +19,7 @@ ReactJS Tutorial
 [x] Home
 [x] Overview
 [x] Environment Setup
-[ ] JSX
+[x] JSX
 [ ] Components
 [ ] State
 [ ] Props Overview
